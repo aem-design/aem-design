@@ -8,7 +8,9 @@
 
 <div>Top Commiters</div>
 
-<img width="420" src="https://github-readme-stats-wine-six.vercel.app/api?username=wildone&theme=radical&show_icons=true&hide_border=true&include_all_commits=true&custom_title=wildone"/><img width="420" src="https://github-readme-stats-wine-six.vercel.app/api?username=cshawaus&theme=radical&show_icons=true&hide_border=true&include_all_commits=true&custom_title=cshawaus"/>
+<img width="420" src="https://github-readme-stats-wine-six.vercel.app/api?username=wildone&theme=radical&show_icons=true&hide_border=true&include_all_commits=true&custom_title=wildone"/><img width="350" src="https://github-readme-stats-wine-six.vercel.app/api/top-langs/?username=wildone&layout=compact&theme=radical&hide_border=true"/>
+
+<img width="420" src="https://github-readme-stats-wine-six.vercel.app/api?username=cshawaus&theme=radical&show_icons=true&hide_border=true&include_all_commits=true&custom_title=cshawaus"/><img width="350" src="https://github-readme-stats-wine-six.vercel.app/api/top-langs/?username=cshawaus&layout=compact&theme=radical&hide_border=true"/>
 
 
 <div>Top Repos</div>
