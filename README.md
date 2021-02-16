@@ -8,8 +8,7 @@
 
 <div>Top Commiters</div>
 
-<img width="420" src="https://github-readme-stats-wine-six.vercel.app/api?username=wildone&theme=radical&show_icons=true&hide_border=true&include_all_commits=true&custom_title=wildone"/>
-<img width="420" src="https://github-readme-stats-wine-six.vercel.app/api?username=cshawaus&theme=radical&show_icons=true&hide_border=true&include_all_commits=true&custom_title=cshawaus"/>
+<img width="420" src="https://github-readme-stats-wine-six.vercel.app/api?username=wildone&theme=radical&show_icons=true&hide_border=true&include_all_commits=true&custom_title=wildone"/><img width="420" src="https://github-readme-stats-wine-six.vercel.app/api?username=cshawaus&theme=radical&show_icons=true&hide_border=true&include_all_commits=true&custom_title=cshawaus"/>
 
 
 <div>Top Repos</div>
@@ -21,6 +20,8 @@
 <a href="https://github.com/aem-design/aemdesign-aem-support">
   <img align="center" src="https://github-readme-stats-wine-six.vercel.app/api/pin/?username=aem-design&repo=aemdesign-aem-support&theme=material-palenight" />
 </a>   
+</div>
+<div>
 <a href="https://github.com/aem-design/npm-compose-webpack">
   <img align="center" src="https://github-readme-stats-wine-six.vercel.app/api/pin/?username=aem-design&repo=npm-compose-webpack&theme=material-palenight" />
 </a>   
@@ -29,4 +30,3 @@
 </a>   
   
   
-</div>
